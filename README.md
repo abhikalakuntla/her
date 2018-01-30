@@ -7,6 +7,7 @@
   <br /><br />
   <a href="https://rubygems.org/gems/her"><img src="http://img.shields.io/gem/v/her.svg" /></a>
   <a href="https://codeclimate.com/github/remiprev/her"><img src="http://img.shields.io/codeclimate/github/remiprev/her.svg" /></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fabhikalakuntla%2Fher?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabhikalakuntla%2Fher.svg?type=shield"/></a>
   <a href='https://gemnasium.com/remiprev/her'><img src="http://img.shields.io/gemnasium/remiprev/her.svg" /></a>
   <a href="https://travis-ci.org/remiprev/her"><img src="http://img.shields.io/travis/remiprev/her/master.svg" /></a>
 </p>
@@ -1015,3 +1016,6 @@ These [fine folks](https://github.com/remiprev/her/contributors) helped with Her
 ## License
 
 Her is © 2012-2013 [Rémi Prévost](http://exomel.com) and may be freely distributed under the [MIT license](https://github.com/remiprev/her/blob/master/LICENSE). See the `LICENSE` file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabhikalakuntla%2Fher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabhikalakuntla%2Fher?ref=badge_large)
